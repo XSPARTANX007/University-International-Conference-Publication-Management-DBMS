@@ -11,7 +11,7 @@ Full-stack DBMS project for an academic conference, handling participant registr
 - **Host**: `localhost`
 - **Port**: `3306`
 - **User**: `root`
-- **Password**: `KKkshitiz1893$@`
+- **Password**: `DBPassword`
 - **Database**: `conference_db`
 
 ## How to Run
